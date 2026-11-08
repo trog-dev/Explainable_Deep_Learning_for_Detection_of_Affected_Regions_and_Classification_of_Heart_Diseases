@@ -1,7 +1,7 @@
 # Phát hiện vùng bệnh và phân loại bệnh tim bằng học sâu có khả năng giải thích
 
 *Explainable Deep Learning for Detection of Affected Regions and Classification of Heart Diseases*
-
+**Graduation Thesis Score:** 8.7/10
 Khóa luận tốt nghiệp ngành Khoa học máy tính tại Trường Đại học Sư phạm Kỹ thuật Vĩnh Long, 2026. Dự án sử dụng MRI tim 3D để phân đoạn cấu trúc tim và vùng nhồi máu cơ tim. Từ mặt nạ dự đoán, hệ thống trích xuất các đặc trưng về thể tích, chức năng tim hoặc tổn thương để phân loại theo từng bệnh nhân.
 
 ## Dữ liệu và bài toán
